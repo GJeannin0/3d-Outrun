@@ -1787,6 +1787,11 @@ Prefab:
       propertyPath: m_Drag
       value: 0.3
       objectReference: {fileID: 0}
+    - target: {fileID: 114529891982828710, guid: 458536097be980c44911939fc454063c,
+        type: 2}
+      propertyPath: carDriftRedirectionReducer
+      value: 30
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 458536097be980c44911939fc454063c, type: 2}
   m_IsPrefabAsset: 0
