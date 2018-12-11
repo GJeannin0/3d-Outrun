@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Finish Line
   - Car
+  - Grass
   layers:
   - Default
   - TransparentFX
